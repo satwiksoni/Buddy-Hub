@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305469361567",
+    "project_id": "buddy-hub-dce5b",
+    "storage_bucket": "buddy-hub-dce5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305469361567:android:a487fa8a17f5046fc501aa",
+        "android_client_info": {
+          "package_name": "com.example.buddy_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305469361567-759h03tsjfur8vab49nrjfsopsgkkli3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddy_hub",
+            "certificate_hash": "2328aaf1fd17d7ba8c06199f76fc5f16b98acdf6"
+          }
+        },
+        {
+          "client_id": "305469361567-f5v7mj5ltraqh1110mblcsppp79a420u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIWmbjdY-lcUV5_r5wlxzSggaw4p3Cw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305469361567-f5v7mj5ltraqh1110mblcsppp79a420u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
